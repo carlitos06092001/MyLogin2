@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "914155893836",
+    "project_id": "reloopdjacademy-194c7",
+    "storage_bucket": "reloopdjacademy-194c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914155893836:android:b79f72eaee12e8851fb0e9",
+        "android_client_info": {
+          "package_name": "com.example.mylogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-gdTNEq_cjuP8uu8jZznIHU0odLrUGo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
